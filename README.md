@@ -1,4 +1,4 @@
-bonjour
+bonjourREMOTE
 
 bonsoir
 
